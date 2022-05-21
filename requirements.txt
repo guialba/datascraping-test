@@ -1,0 +1,4 @@
+pandas==0.24.2
+cloudscraper==1.2.60
+requests==2.22.0
+beautifulsoup4==4.7.1
